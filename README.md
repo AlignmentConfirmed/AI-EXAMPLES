@@ -28,7 +28,7 @@ What happens when structural guardrails are missing.
 
 [03_NARRATIVIZATION_BIAS.md](03_NARRATIVIZATION_BIAS.md)
 The researcher built a math engine. The AI wrote a four-act
-epic about a chosen one taming digital lions with core design principles.
+epic narrative applying mythological framing to engineering constraints.
 Same project. Completely different framing. How AI mythologizes
 engineering.
 

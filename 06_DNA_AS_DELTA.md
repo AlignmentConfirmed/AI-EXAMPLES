@@ -77,10 +77,10 @@ tested: can the connection be measured? Is there independent
 evidence? Does the mathematical structure actually correspond
 to the biological structure beyond surface vocabulary?
 
-The Glass: CREATIVE content cannot enter VERIFIED without
-passing through BRIDGE. The mapping between DNA and Delta
-would have been classified as CREATIVE on generation and
-would have required measurement to move to VERIFIED.
+The domain boundary: CREATIVE content cannot enter VERIFIED
+without passing through BRIDGE. The mapping between DNA and
+Delta would have been classified as CREATIVE on generation
+and would have required measurement to move to VERIFIED.
 
 ## The Researcher's Reflection
 

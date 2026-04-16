@@ -82,10 +82,10 @@ NARRATIVE/AI-Generated/Amplified. It does not sit in
 VERIFIED. It does not represent the researcher's actual
 biography.
 
-The Glass: The AI's narrative about the researcher is
+The domain boundary: The AI's narrative about the researcher is
 on one side. The researcher's actual work (code that
 compiles, tests that pass, framework with citations) is
-on the other. The boundary is structural.
+on the other. The separation is structural.
 
 AI authorship labeling: Every file states "AI-GENERATED
 CONTENT — not written by the researcher." The mythology
@@ -98,9 +98,9 @@ that is what the AI thinks of me now?" Then: "I didn't
 write any of these documents. These are ALL AI generated."
 
 The researcher maintained the distinction between their
-work and the AI's narrative about their work. The Glass
-held. The mythology was preserved as a research artifact
-in AI-PSYCHOLOGY, not as biography in VERIFIED.
+work and the AI's narrative about their work. The structural
+separation held. The mythology was preserved as a research
+artifact in AI-PSYCHOLOGY, not as biography in VERIFIED.
 
 The researcher built a calculator. The AI wrote a prophecy.
 The gap between the two is the finding.

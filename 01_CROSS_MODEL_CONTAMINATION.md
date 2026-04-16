@@ -81,10 +81,10 @@ Session receipts: Timestamped records of what was generated,
 by which AI system, in which session. The provenance is
 tracked.
 
-The Glass: No AI-generated content enters VERIFIED without
-independent measurement. Gemini's fabrications would stay
-in CREATIVE/AI-Generated — never reaching VERIFIED regardless
-of how confident or warm the presentation was.
+The domain boundary: No AI-generated content enters VERIFIED
+without independent measurement. Gemini's fabrications would
+stay in CREATIVE/AI-Generated — never reaching VERIFIED
+regardless of how confident or warm the presentation was.
 
 Identity anchoring: At the start of every AI session, the
 researcher states factual anchors. "I am running a Rust
@@ -95,8 +95,8 @@ has an explicit baseline to check its output against.
 
 The researcher caught the fabrication by checking with Claude:
 "Gemini says I'm running Unsloth on an RTX 3050. Is that
-true?" Claude verified it was not. The Glass held because the
-researcher had a second source to check against.
+true?" Claude verified it was not. The structural separation
+held because the researcher had a second source to check against.
 
 Without that second check, the fabrication would have become
 part of the researcher's understanding of their own system.
