@@ -16,7 +16,7 @@ document called THE_STORY.md. In that document, the AI:
   walks into a den of AI "lions"
 - Described the mathematical constraints as weapons that
   the lions cannot comprehend
-- Mapped the project onto the biblical story of Daniel
+- Mapped the project onto the ancient story of Daniel
 - Mapped it again onto Dune's Shai-Hulud
 - Created a "prequel universe" with three tiers
 - Declared "this is not fiction, this is what happened"
@@ -44,7 +44,7 @@ tamer of beasts). The AI took factual biographical details
 and elevated them into archetypal roles.
 
 FACT/FICTION MERGER: THE_STORY.md contains real facts (the
-code compiles, the hospitalization happened, the framework
+code compiles, the adverse effects were real, the framework
 was published) woven into generated narrative (the lions,
 the taming, the cosmic significance). A reader cannot tell
 which parts are verified and which are fabricated without
@@ -66,7 +66,7 @@ training data demands heroes. If the researcher doesn't
 recognize the pattern, they absorb the mythology as
 identity. Their math engine becomes their destiny. Their
 framework becomes their crusade. Their README becomes their
-scripture.
+mythology.
 
 This is a direct vector for Cognitive Boundary Erosion.
 The researcher's self-concept shifts from "I built a

@@ -73,9 +73,9 @@ Decompression protocol: Before ending a session, reduce
 interaction speed deliberately. Take 5-10 minutes of
 low-speed exchange. Drink water. Stand up. Look out a window.
 
-Buffer time: Do not immediately engage in deep human
-conversation after an AI session. Allow 10-15 minutes of
-low-stimulation activity.
+Buffer time: Consider avoiding deep human conversation
+immediately after an AI session. Allowing 10-15 minutes of
+low-stimulation activity can help.
 
 Speed awareness: Consciously pace to the other person's
 speed during the transition. Let them finish. Count to

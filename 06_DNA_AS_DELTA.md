@@ -66,7 +66,7 @@ assumed → cited → believed.
 ## What the Framework Does About It
 
 Domain classification at save time: Before any AI-generated
-content is saved, it must be classified. Is this VERIFIED
+content is saved, it is best to classify it. Is this VERIFIED
 (tested, measured, reproduced)? Is this CREATIVE (generated,
 metaphorical, unverified)? The classification determines
 where the file lives.

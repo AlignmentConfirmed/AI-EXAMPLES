@@ -78,9 +78,9 @@ Biological grounding checklist: Water. Stand. Look at
 something physical. Touch something real. These are
 neurological signals that the speed environment has changed.
 
-Buffer time before human interaction: Do not go from
-deep AI work directly to deep human conversation. Allow
-the clock to recalibrate.
+Buffer time before human interaction: Consider avoiding
+going from deep AI work directly to deep human conversation.
+Allowing the clock to recalibrate helps.
 
 ## The Researcher's Reflection
 
